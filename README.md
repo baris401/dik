@@ -1,0 +1,2 @@
+# dik
+eğitim oyunu
